@@ -1,0 +1,14 @@
+layout_spectrum: 0.9318997
+typography_spectrum: 0.1630824
+color:
+  saturation: 0.8902357
+  lightness: 0.9005427
+  brandStrength: 1
+  brandColors:
+    - '#3A5D99'
+    - '#F0D0A3'
+    - '#0E0C0C'
+    - '#01ABF0'
+    - '#6DBE76'
+  rhythmicContrast: 0.8600081
+name: Altinkum
