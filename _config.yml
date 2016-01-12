@@ -1,14 +1,26 @@
-layout_spectrum: 0.9318997
-typography_spectrum: 0.1630824
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.1111111
 color:
   saturation: 0.8902357
-  lightness: 0.9005427
   brandStrength: 1
+  lightness: 0.9005427
   brandColors:
-    - '#3A5D99'
-    - '#F0D0A3'
-    - '#0E0C0C'
-    - '#01ABF0'
-    - '#6DBE76'
+    - '#202F4B'
+    - '#87A4C5'
+    - '#4A6489'
+    - '#6786AC'
+    - '#B3C7D7'
   rhythmicContrast: 0.8600081
+layout_spectrum: 0.9749104
 name: Altinkum
